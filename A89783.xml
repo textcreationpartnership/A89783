@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nineteene propositions cleered, and the practice thereof desired, for the certaine speedy deliverance of city and countrey from feare of sword and famine. By Thomas Nutt.</title>
+            <author>Nutt, Thomas, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89783</idno>
+            <idno type="STC">Wing N1475</idno>
+            <idno type="STC">Thomason E65_28</idno>
+            <idno type="STC">ESTC R8910</idno>
+            <idno type="EEBO-CITATION">99873431</idno>
+            <idno type="PROQUEST">99873431</idno>
+            <idno type="VID">125902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125902)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E65[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nineteene propositions cleered, and the practice thereof desired, for the certaine speedy deliverance of city and countrey from feare of sword and famine. By Thomas Nutt.</title>
+                  <author>Nutt, Thomas, 17th cent.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date from Thomason Coll.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:125902:1" rendition="simple:additions"/>
+            <head>The nineteene Propoſitions cleered, and the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ractice thereof deſired, for the certaine ſpeedy deliverance of City and Countrey from feare of Sword and Famine.</head>
+            <byline>By Thomas Nutt.</byline>
+            <p>TO the honourable Court of Parliament, and all others that deſire neither ſhedding of blood, nor yet a ſinfull procurement of peace, the Author committeth his weake endeavours, beſeeching God, ſo farre as ſhall be for his glory, to give you patience, willingly, deliberately, and conſiderately, to read a part of his weak conceptions, wherein he hopeth you ſhall ſee cleered the 19. propoſitions, as alſo ſee a cheape way of accompliſhing the hopes of all the Kingdome, except thoſe that are wilfully bent againſt King and Kindome, Parliament and City, as alſo how you ſhall in all likelihood have a willing army to ſtrengthen your Cities and places yet unplundered, conſiſting of twenty hundred thouſand perſons at leaſt in ſuch a manner diſpo<g ref="char:EOLhyphen"/>ſed and diſperſed, as they ſhall not be a burthen to any the places where they come, nor whereout they goe, but a joy and refreſhing to the places, and the places to them: where<g ref="char:EOLhyphen"/>by alſo your godly officers, in caſe of want of helpe, ſhall not need to ſend farre for them, whereſoever they be in want of them; but ſhall probably in all places not need feare a ſpeedy ſupply of their want of men and food, if the Lord give you hearts to practice the ſame. Do you not heare dai<g ref="char:EOLhyphen"/>ly of the loſing of Cities, and townes of wealth, and of great conſequence, the which I feare do more affect men then the hurt of the poore people therein, whoſe condition
+<pb facs="tcp:125902:2"/>I beſeech you to conſider, and if ye cannot relieve them as ye would, yet prevent the like for others, as if you were, as I know not how ſoone you may be, in their caſe: it may be had not you deſired them they would at firſt have taken the other ſide, not knowing which was beſt; but judging the Parliament wiſe and godly, they have followed your counſell, and ſtood againſt rebellious enemies; the which by an over-ruling providence of God, and his determinate counſell and will, it hath tended to the deſtruction of many, and to the diſ-harbouring of many more, whoſe afflictions and miſeries, together with other great occaſions, do ſo affect you, that you labouring to help, yet cannot ſpare time to hearken to that which might effect your godly deſires: for theſe eight or nine moneths your poor ſuppliant hath labou<g ref="char:EOLhyphen"/>red to get a hearing, yet never could, Gods time being not yet come; but if hee incline you at laſt to hearken, I hope God will ſhew you by a poore-deſpiſed creature what will tend to your deliverance: and whereas you are labouring to raiſe an Army for Sir <hi>William Waller,</hi> which doth I con<g ref="char:EOLhyphen"/>ceive but ſlowly increaſe, although your money decreaſe apace. Conſider the wayes of Gods people are not bloody without his command; therefore conſider how you might have a thouſand thouſand people for the defence of the poore counterys, beſides the inhabitants themſelves, which would be as many more, who all for love or feare would be your friends to defend your cauſe, if you will hearken to Gods way, whereby you ſhall let your enemies know, that except they ſeek their owne deſtruction, you deſire not their blood, but if they will come and lay down their armes, they ſhall be entertained, and enjoy their liberties and eſtates peaceably.</p>
+            <p n="1">1. Then conſider with what willingneſſe it would make the moſt go out, with courage and hope of prevaling in your
+<pb facs="tcp:125902:2"/>cauſe, where almoſt all did go, and on condition they ſhould place neighbours of every pariſh by themſelves in the villa<g ref="char:EOLhyphen"/>ges, and officers of their owne chuſing in their owne par<g ref="char:EOLhyphen"/>iſhes ſhould go and governe them, and there they ſhould one worke for another, and take money for it, and ſe<g ref="char:EOLhyphen"/>verall poore men of trades ſhould make ware, and have rich men at hand to buy it; and might without feare of plun<g ref="char:EOLhyphen"/>dering ſend goods to <hi>London,</hi> and receive goods from <hi>London,</hi> ſo their ſtrength and ſtore would increaſe apace, for moſt men would be glad by night or day to bring their goods into your compaſſe for ſafety, who alſo ſtill would be guides to your living wall, I meane your multitude of people, to incompaſſe further and further every day; and every place would be glad throughont the Kingdome to ſe<g ref="char:EOLhyphen"/>cure their food and their goods, in their ſeverall pariſhes by order of anthority: if you ſhould give commiſſion to all the officers that go out to intreat, admoniſh, and inforce them that refuſe in pariſhes and villages to ſecure their food and chiefe goods in their pariſh-Churches, and great walled houſes for their own uſe from feare of plundering; and if any obſtinately refuſe, then to plunder them: which food being thus ſecured, none ſhould have food for their money, except they would defend your cauſe in all places, the which would make them all generally willing to do it, know<g ref="char:EOLhyphen"/>ing that all their neighbours muſt do the like, or els ſtarve. And againe, having by this means ſuch a ſatisfactory ex<g ref="char:EOLhyphen"/>cauſe if they be taken, that they muſt have ſtarved: and you might put muskets and armes in the cuſtody of two or three honeſt officers in every ſuch defenced place and thirty or forty more, if but women, they would eaſily with muskets defend it: and cauſe all food to be brought thither, and none ſold but from thence to all in that pariſh by the owners therof or their deputies, who being friends might keep there,
+<pb facs="tcp:125902:3"/>And if any ſhould ſpeake or do any thing againſt the pro<g ref="char:EOLhyphen"/>ceedings of the Houſe herein, or hinder or deſert the cauſe, upon the teſtimony of two honeſt witneſſes, he ſhould have no food by the ſpace of one weeke following, but at double the price, and ſo the people out of all townes aforeſaid, and cities, and populous places would inforce all to ſuch a con<g ref="char:EOLhyphen"/>formity, that none, neither one nor other almoſt would de<g ref="char:EOLhyphen"/>ſert the cauſe, knowing that in all probability they muſt needs prevaile, when all villages ſhall be ſo filled with ſtrength of men and women, who having all their chiefe goods and food in the Church ſecure, they will incompaſſe the enemy rather then they ſhall get it, both men, women, boyes and maids would unaminouſly ſet upon them and de<g ref="char:EOLhyphen"/>ſtroy them, being ſo ſtrengthened with as many more as they had before in their towne; and then they that are in the Church might alwayes have a Centinell on the top of every ſteeple, which might give warning round about to their neighbouring townes; by ſetting up a pole on the ſteeple top with a black cloth in the day, and a great torch or link on fire on a pole in the night, reaching much higher then the ſteeple top. The neighbouring townes having their owne goods ſo alſo ſecured, in their Church, and many of our hel<g ref="char:EOLhyphen"/>pers alſo to go with them, and then all having ſuch kinde of weapons as I can ſhow, the which every one almoſt may make for themſelves for 6. pence or 8. pence coſt, a blow whereof would kill a horſe, and yet a little youth or wench might uſe the ſame againſt any man with ſword and poleaxe: ſo that were the enemies number greater or ſmaller, it were impoſſible almoſt that any ſhould eſcape, but by deliveering up horſes and armes, and then you need neither kill them nor take them, but let them go back to help to eat up your enemies food, and tell them, if they will fetch ſuch as are the great maintainers of their cauſe, and deliver them up,
+<pb facs="tcp:125902:3"/>you then will entertaine themſelves, and let them have food if they will worke among you, and live like honeſt men: for we deſire no mans blood: for you may be ſure that they muſt needs come ſhort of food; for they have made and do make great waſt, and they do and muſt keep many that are gone to them out of our countreys and all other countreys in the Kingdome, beſides many that the Queen hath procured, which will all helpe to eat faſter then they know how to get, if God would move you to take this courſe: ſo alſo you ſhall ſinde many Iriſh in your compaſſe, which you might ſend to the enemies, and ſend them word you could ſend them more if they had meat for them, but our food muſt be for our friends.</p>
+            <p>If this courſe were taken, ye ſhould not, I conceive, heare within a while, one black mouth open againſt your proceed<g ref="char:EOLhyphen"/>ings: but ſeeing your ſide the ſtrongeſt, and all hopes of the others prevailing quaſht, all would take part, ſpeak and doe for the Parliament in their proceedings, although more for feare then love: whereas now the food in Pariſhes not being ſecured in ſuch places, ye heare by lamentable experi<g ref="char:EOLhyphen"/>ence how they plunder and ſpoile, the reaſon is, the poore in<g ref="char:EOLhyphen"/>habitants now having their chiefe goods and food in their own houſes, dare not ſtir out at the enemies approach to re<g ref="char:EOLhyphen"/>ſiſt, fearing if they goe out, the enemies will come in and plunder them: and if there come but ten or twenty, they will plunder a whole town, fearing there are many more be<g ref="char:EOLhyphen"/>hind, and ſo men are hiding their chiefe goods for feare: whereas this courſe being taken, that feare were gone, not onely from that town, but all about it, ſo that with warning as aforeſaid, they would irreſiſtibly deſtroy them, if they did not lay down armes, and deliver up their horſes, and then plundering them, let them go with their lives. In this before ſet down are the 5. firſt Propoſitions in ſom meaſure cleared.</p>
+            <p n="6">
+               <pb facs="tcp:125902:4"/>
+6 If the courſe above-written be not taken, there will I feare be fire ſet on barnes of corne when it is got in, but by this courſe you may prevent it. The 7. is formerly anſwered.</p>
+            <p>For the eighth, if God would move authority to com<g ref="char:EOLhyphen"/>mand, that inaſmuch as Barley and Rye is good bread-corn, that they might make but halfe the barley into malt, and make no beere to retaile at any dearer rate then two quarts a penny, under a ſtrict penalty, and authority by Officers in e<g ref="char:EOLhyphen"/>very Pariſh to puniſh the ſame, as by a Juſtice of Peace. The 9. and 10. are formerly anſwered.</p>
+            <p>I conceive there ſhould hardly need any, or but very few Captains or Colonels, or the horſes and their riders theſe wayes, and halfe the money in the other way would ſerve the turne, for every one might be at worke of their trades that had any, and others watching, fortifying and making breſt-works about Church-yards, and ſtopping roads, high-wayes and bridges, ſo that we would hardly go to our enemies, and they would have but little joy in comming among us, for if they did go back, it muſt be with hungry bellies.</p>
+            <p>The 12. is formerly in part anſwered, for women would be helpfull to their husbands and family, and might be Cen<g ref="char:EOLhyphen"/>tinels on Steeples, as alſo learn to defend with muskets from the Churches, where the enemies could not hurt them with muskets through the wals: and by the way, if you did cauſe ſome with a far greater bore, and half as long again as muskets, ſo to ſhoot from Churches and other places of ſafeguard. You might alſo by the leaning of a black cloth on a pole, or a torch, as aforeſaid, Eaſt, Weſt, North or South, diſcover which way the enemy goes, or by certaine ſounds of great horns of braſſe, which would be heard far, and he might give one Sound if they went Eaſt, two if Weſt, three if North, foure if South, or the like. By the ſame alſo they might let their neighbouring townes know
+<pb facs="tcp:125902:4"/>how far off they were by other diſtinctions of ſounds.</p>
+            <p n="13">13 When three quarters of the people were gone, then food and firing would laſt foure times ſo long.</p>
+            <p n="14">14 If this courſe were taken, many would believe you would prevaile, and ſo would ſtay, that thinke they ſhould die if the other prevaile. The 15. is anſwered in the 12. the 16. and 17. alſo are anſwered.</p>
+            <p>The 18. is, not to let any body paſſe toward the enemy or from him, but take the meſſenger, and let one of ours carry forth the approved letters.</p>
+            <p>Theſe things propounded being conſidered, almoſt all would go, and not divide families, but wives, children, and ſervants with their maſters, all would go, and that willing<g ref="char:EOLhyphen"/>ly, with courage, and hope to prevaile, and all folkes not in one place in a huge body to do nothing, but every one ſhould have continuall imployment, no horſes almoſt kept at charge in City or Countrey, but thoſe that ſhould be imployed in other labour, how joyfully would all imbrace, and ſo the ci<g ref="char:EOLhyphen"/>ty and thoſe places ſhould have continuall trading, and be a refreſhing and a wal of defence each to other.</p>
+            <p>Conſider again, when mens goods are ſecured out of their dwellings, ſo that they have nothing to loſe in their houſes, they may the better, and wil let helpers have roomes to ſub<g ref="char:EOLhyphen"/>ſiſt in, and uſe them kindly, ſeeing they know they cannot ſteale when all their goods are ſecured. And whoſoever ſhal refuſe to have his goods ſo ſecured, or any neighbour that ſhould conceal him, or not help to plunder him, ſhould be plundered: and whoſoever hath a houſe wel walled for ſecurity againſt muskets, and wil not ſuffer it to be imployed for your ſervice, let him be plundered. And whatſoever town ſhould refuſe to help other towns, at the approach of the enemy, ſhould be plundered, and have no food for mony.</p>
+            <p>Then get hoope-makers in every village, and teach all
+<pb facs="tcp:125902:5"/>boyes and girles of any green ſticks to make croſſe hoopes ſuch as hang at Taverns, that they may have them to fil all high wayes with them, whereinto if a horſe get a foot, he can hardly ſhift caſting his rider, and when all is done, they are good fuell. Any boy or girle would learne almoſt in an houre to make them ſo as to ſerve that purpoſe, ſo that they ſhould not march night nor day till they firſt did light and gather them up, in which time our helpers need not ſtand ſtill, and which are ſoon caſt out of the way for your owne good occaſions. And who ſo ſhould offer violence to any of your Officers, ſhould have Martiall Law, and who ſo ſhould ſpeak againſt them ſhould be puniſhed: and if any of the Of<g ref="char:EOLhyphen"/>ficers do any wrong, they ſhould be ſeverely puniſhed. So they would make trenches and breſt-works about the places of ſtore, and make every place ſo ſtrong, as you ſhould ſhort<g ref="char:EOLhyphen"/>ly neither need to feare home bred nor forraigne enemies.</p>
+            <p>That no food might be bought or ſold but at ſuch places where every man might have money for his commodities, Then you need not preſſe men, or if you did, you need not feare they would take to the other ſide, for feare of ſtarving, moſt will be willing to go with the multitude.</p>
+            <p>Many things for want of roome I am conſtrained to omit, many more I beleeve God would minde me of daily, if I could have recourſe to any daily to declare the ſame.</p>
+            <p>The Authour hath a twentieth Propoſition, conducing to the performance of the nineteene with much readineſſe, which he reſerveth for Authority in private.</p>
+            <p>One maine thing is left out, namely how corne may be threſhed as faſt as reaped, which he can declare to Authori<g ref="char:EOLhyphen"/>ty, which will ſecure it from feare of fire.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
